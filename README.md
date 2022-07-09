@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazli-al&layout=compact&theme=blue-green)
 
 ![](https://hit.yhype.me/github/profile?user_id=10488168)
