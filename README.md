@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=nazli-al&color=gray&label=N&style=plastic)
-![](https://hit.yhype.me/github/profile?nazli-al=10488168)
+![](https://hit.yhype.me/github/profile?user_id=10488168)
