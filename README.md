@@ -1,6 +1,5 @@
 ### Nazli Aladini
-🌱 I’m currently learning. I'm interested in Deep Learning and Python.
-
+🌱 I’m currently learning.
 
 <!--
 **nazli-al/nazli-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
